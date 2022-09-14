@@ -48,6 +48,7 @@ The dataset obtained from Kaggle which contained 43 attributes of 541 women, amo
 2. Follow notebook for feature engineering 
 3. Follow notebook for machine learning classification
 ## Notebooks
+https://github.com/farhadme/pcos-machinelearning/blob/main/pcos-machinelearning.ipynb
 ## Authors
 
 - [@farhadme](https://www.github.com/farhadme)
