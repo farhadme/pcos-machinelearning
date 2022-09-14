@@ -24,7 +24,7 @@ metabolic tests.
 
 
 
-#### Technologies
+#### Dependencies
 - Python
 - Pandas, Numpy
 - Jupyter Notebook
