@@ -8,8 +8,8 @@ metabolic tests.
 
 #### Steps in this project
 
-- Identification of the most important featues using different feature selection methods
-- Application of machine learning algorithms on the pre-selected features
+- Feature engineering for missing values in the dataset columns
+- Application of machine learning algorithms for binary classification
 - Evaluate machine learning algorithms performance using AUC-ROC curve, AUC score, specificity and sensitivity
 
 #### Methods Used
