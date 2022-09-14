@@ -34,6 +34,7 @@ The data source for this project:
 https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos
 
 The dataset obtained from Kaggle which contained 43 attributes of 541 women, among them 177 women struggled with PCOS.
+![image](https://user-images.githubusercontent.com/19810815/190255996-62775eb4-7235-4b15-bf18-f57aa0bb5858.png)
 
 
 
